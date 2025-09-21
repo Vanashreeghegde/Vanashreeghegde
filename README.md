@@ -5,7 +5,7 @@
 
 ## 🎓 Current Learning / Certification
 
-**Course:** Data Science & AI Certification (in collaboration with iHub DivyaSpark from IIT Roorkee)
+**Course:** Data Science & AI Certification from Intellipat(in collaboration with iHub DivyaSpark from IIT Roorkee)
 
 - **Intellipat Data Science & AI Certification Course** (in collaboration with IIT Roorkee)  
 - **Machine Learning & Deep Learning:** Supervised & Unsupervised learning, Neural Networks, CNN, RNN  
