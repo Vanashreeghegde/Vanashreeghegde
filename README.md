@@ -43,10 +43,13 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Description |
+| Project | Description | 
 |---------|-------------|
+| **Fashion Item Recommendation** | CNN-based image similarity recommendation system using VGG16 to suggest visually similar fashion items |
 | **Screentime Analysis** | Visualized smartphone usage, notifications & app openings |
-| **Sales Dashboard** | Interactive Tableau dashboard analyzing sales data |
+
+
+
 
 ---
 
