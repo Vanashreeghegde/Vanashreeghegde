@@ -1,21 +1,109 @@
-<h1 align="center">Hi 👋, I'm Vanashree G Hegde</h1>
-<h3 align="center">I m a Data science entusiast</h3>
+<h1 align="center">Hi 👋, I'm Vanashree G. Hegde</h1>
+<h3 align="center">A Data Science & AI Enthusiast | Turning Data into Insights</h3>
+
+---
+
+## 🎓 Current Learning / Certification
+
+**Course:** Data Science & AI Certification (in collaboration with iHub DivyaSpark from IIT Roorkee)
+
+- **Intellipat Data Science & AI Certification Course** (in collaboration with IIT Roorkee)  
+- **Machine Learning & Deep Learning:** Supervised & Unsupervised learning, Neural Networks, CNN, RNN  
+- **Generative AI & NLP:** Text generation, chatbots, word embeddings, sentiment analysis  
+- **Data Visualization & Dashboards:** Plotly, Seaborn, Matplotlib, Tableau, Streamlit  
+- **Big Data & SQL:** Data extraction, cleaning, analysis, and database management  
+- **MLOps & Deployment:** Model deployment, APIs, version control with Git/GitHub  
+- **Python Libraries Mastery:** pandas, numpy, scikit-learn, matplotlib, seaborn, tensorflow
+
+  
+ 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanashree-hegde&label=Profile%20views&color=0e75b6&style=flat" alt="vanashree-hegde" /> </p>
+---
 
-- 🔭 I’m currently working on **Srilanka Degue cases prediction on Omdena**
+## 💼 Work Experience
+- **Network Engineer** at **Infynix Data Services Pvt Ltd**                                                                                          ( Nov 2024 - July 2025)
 
-- 🌱 I’m currently learning **more data sciece skills**
+**Key Responsibilities & Skills:**  
+- Monitored network performance using **MRTG** and **Cacti** to ensure high availability and uptime  
+- Conducted **basic troubleshooting** of LAN/WAN connectivity,switches.
+- Coordinated with clients to **identify and resolve network-related problems** efficiently  
+- Assisted in **network configuration changes** and documentation  
+- Provided **technical support and guidance** to end-users and teams for network optimization  
+- Ensured smooth operation and **continuous monitoring** of network infrastructure  
 
-- 📫 How to reach me **hegdevanashree88@gmail.com**
+  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🎓 Education
+- **B.Sc in Data Science**, Maharani Cluster University (Graduated 2024)  
+  - CGPA: 9.3/10  
+
+---
+
+## 🚀 Featured Projects
+| Project | Description |
+|---------|-------------|
+| **Screentime Analysis** | Visualized smartphone usage, notifications & app openings |
+| **Sales Dashboard** | Interactive Tableau dashboard analyzing sales data |
+
+---
+
+
+## 🖥️ Programming Languages
 <p align="left">
-<a href="https://linkedin.com/in/vanashree-g-hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanashree-g-hegde" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://img.shields.io/badge/ML-FF6F61?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-D14343?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=java&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+  <img src="https://img.shields.io/badge/DeepLearning-0F4C81?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/GenAI-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanashree-hegde&" alt="vanashree-hegde" /></p>
+## 🛠️ Tools & Frameworks
+<p align="left">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/google-colab.png" alt="Google Colab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+</p>
+
+
+---
+
+## 📖 Hobbies
+<p align="left">
+- Reading Books 📚  
+- Exploring Data Science & AI Projects 💻  
+</p>
+
+---
+
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/vanashree-g-hegde" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hegdevanashree88@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vanashree-hegde" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+
+
+
