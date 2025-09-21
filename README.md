@@ -47,6 +47,7 @@
 |---------|-------------|
 | **Fashion Item Recommendation** | CNN-based image similarity recommendation system using VGG16 to suggest visually similar fashion items |
 | **Screentime Analysis** | Visualized smartphone usage, notifications & app openings |
+| **YouTube Transcript Chapterizer with Topic Modeling**| This project takes any YouTube video link, extracts its transcript, performs topic modeling (using **NMF**) and automatically creates **chapter markers** with descriptive names.|
 
 
 
