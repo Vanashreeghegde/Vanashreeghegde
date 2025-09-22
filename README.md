@@ -22,7 +22,7 @@
 ---
 
 ## 💼 Work Experience
-- **Network Engineer** at **Infynix Data Services Pvt Ltd**                                                                                          ( Nov 2024 - July 2025)
+- **L1-Network Engineer** at **Infynix Data Services Pvt Ltd**                                                                                          ( Nov 2024 - July 2025)
 
 **Key Responsibilities & Skills:**  
 - Monitored network performance using **MRTG** and **Cacti** to ensure high availability and uptime  
@@ -63,14 +63,16 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-D14343?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=java&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
   <img src="https://img.shields.io/badge/DeepLearning-0F4C81?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
   <img src="https://img.shields.io/badge/GenAI-FF4500?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge&logo=gnu&logoColor=white" alt="Statistics" />
 </p>
+
 
 ---
 
