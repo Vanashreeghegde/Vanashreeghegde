@@ -42,16 +42,6 @@
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | 
-|---------|-------------|
-| **Fashion Item Recommendation** | CNN-based image similarity recommendation system using VGG16 to suggest visually similar fashion items |
-| **Cancer Detection using pytorch** | Deep learning project using PyTorch and CNNs to classify cancer from histopathology images (PatchCamelyon dataset |
-| **YouTube Transcript Chapterizer with Topic Modeling**| This project takes any YouTube video link, extracts its transcript, performs topic modeling (using **NMF**) and automatically creates **chapter markers** with descriptive names.|
-
-
-
-
 ---
 
 
